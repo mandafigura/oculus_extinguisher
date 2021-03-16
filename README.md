@@ -1,4 +1,4 @@
-# Final Project - Oculus Extinguisher
+# Final Project (30 days project) - Oculus Extinguisher
  SCC5830: Image processing, first semester of 2020 at University of São Paulo (USP), Brazil.
 
 **Students:**
@@ -60,3 +60,9 @@ On the table bellow we show the details of each image we used as input on this p
 | oculus_Fidel | .PNG | 436 x 458 | RGB | 8 bit | The input Fidel image with artificial eyeglasses |
 | manual_mask_Fidel | .PNG | 436 x 458 | RGB | 8 bit | The manual eyeglasses mask for Fidel |
 | original_Angela | .PNG | 436 x 458 | RGB | 8 bit | Angela Davis wearing eyeglasses |
+
+### Some results
+| Input Image | Generated Mask | `inpainting_revolution`|
+|:--:|:--:|:--:|
+| <img src="/images/original_Angela.png" align="center" height="200" > | <img src="/images/generated_mask_Angela.png" align="center" height="200" > | <img src="/images/inpainting_revolution_generated_Angela.png" align="center" height="200" > |
+|<img src="/images/oculus_Fidel.png" align="center" height="200" >| <img src="/images/generated_mask_Fidel.png" align="center" height="200" >| <img src="/images/inpainting_revolution_generated_Fidel.png" align="center" height="200" >|
